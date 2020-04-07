@@ -1,0 +1,11 @@
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\bin\Debug\EstudoSQL.exe.config
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\bin\Debug\EstudoSQL.exe
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\bin\Debug\EstudoSQL.pdb
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.frmEstoque.resources
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.Properties.Resources.resources
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.csproj.GenerateResource.cache
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.csproj.CoreCompileInputs.cache
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.exe
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.pdb
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.csprojAssemblyReference.cache
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoSQL\obj\Debug\EstudoSQL.frmIncluirAlterarContato.resources

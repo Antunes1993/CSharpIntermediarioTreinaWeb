@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+  <nomeMercado> Loja de Suplementos </nomeMercado>
+  <produtos>
+    <produto id="001" nome="WheyProtein" marca="Optimum" tipo="Concentrado" preco="199.00" quantidadeEstoque="50" />
+    <produto id="002" nome="WheyProtein" marca="Optimum" tipo="Isolado" preco="210.00" quantidadeEstoque="20" />
+    <produto id="003" nome="WheyProtein" marca="Optimum" tipo="Hidrolisado" preco="250.00" quantidadeEstoque="25" />
+    <produto id="004" nome="WheyProtein" marca="Probiótica" tipo="Concentrado" preco="149.00" quantidadeEstoque="50" />
+    <produto id="005" nome="WheyProtein" marca="Probiótica" tipo="Isolado" preco="185.00" quantidadeEstoque="20" />
+    <produto id="006" nome="WheyProtein" marca="Probiótica" tipo="Hidrolisado" preco="210.00" quantidadeEstoque="25" />
+    <produto id="007" nome="BCAA" marca="MaxTitanium" tipo="Capsulas" preco="59.00" quantidadeEstoque="50" />
+    <produto id="008" nome="BCAA" marca="Integral Médica" tipo="Capsulas" preco="42.00" quantidadeEstoque="20" />
+    <produto id="009" nome="BCAA" marca="NeoNutri" tipo="Em pó" preco="35.00" quantidadeEstoque="25" />
+    <produto id="010" nome="Creatina" marca="Integral Médica" tipo="Cápsulas" preco="60,00" quantidadeEstoque="13" />
+    <produto id="010" nome="Creatina" marca="Integral Médica" tipo="Cápsulas" preco="60,00" quantidadeEstoque="13" />
+    <produto id="010" nome="Creatina" marca="Integral Médica" tipo="Cápsulas" preco="60,00" quantidadeEstoque="13" />
+  </produtos>
+</estoque>

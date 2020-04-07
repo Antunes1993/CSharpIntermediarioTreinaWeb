@@ -1,0 +1,10 @@
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\bin\Debug\EstudoXML.exe.config
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\bin\Debug\EstudoXML.exe
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\bin\Debug\EstudoXML.pdb
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csprojAssemblyReference.cache
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.frmGerenciamentoEstoque.resources
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.Properties.Resources.resources
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csproj.GenerateResource.cache
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csproj.CoreCompileInputs.cache
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.exe
+C:\Users\feoxp7\Desktop\SCRIPTS\TreinaWeb\CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.pdb
